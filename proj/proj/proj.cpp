@@ -4,6 +4,10 @@
 #include "stdafx.h"
 #include <iostream>
 #include <vector>
+#include <map>
+#include <string>
+#include <cstdlib>
+#include <cmath>
 
 using namespace std;
 
